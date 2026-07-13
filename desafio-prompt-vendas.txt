@@ -1,0 +1,22 @@
+🧩 Resolução do Desafio Criativo
+
+Passo 1: Defina a intenção
+Tipo de conteúdo: Um script de abordagem de vendas inicial por mensagem (Cold Message).
+
+Público: Donos de pequenas empresas ou negócios locais.
+
+Resultado esperado: Agendar uma reunião ou demonstrar o valor de uma solução digital para aumentar o faturamento deles.
+
+
+Passo 2: Adicione contexto e restrições
+Contexto: Abordagem voltada para vendas consultivas B2B, focando em dores comuns do mercado (como falta de posicionamento digital ou processos manuais demorados).
+
+Formato: Mensagem curta, dividida em blocos (Saudação, Dor/Gancho, Solução, Chamada para Ação).
+
+O que evitar: Evitar termos técnicos demais (linguagem excessivamente corporativa), textos longos e cansativos, ou parecer um spam automatizado.
+
+
+
+🚀 Prompt Final Pronto (Passo 3)
+
+Quero que a IA gere um script de abordagem inicial de vendas por mensagem para donos de pequenas empresas locais, com o objetivo de despertar o interesse em agendar uma breve reunião para apresentar soluções de digitalização e automação. Considere o seguinte contexto: o foco é uma venda consultiva que destaque como processos digitais e automatizados economizam tempo e evitam a perda de clientes. O conteúdo deve ter formato de mensagem curta e direta, estruturada em tópicos amigáveis (Gancho de Atenção, Benefício Claro e Chamada para Ação). Evite jargões técnicos complexos, tom excessivamente formal ou agressivo, e textos longos.
